@@ -16,4 +16,4 @@ rustdoc-args = ["--cfg", "docsrs"]
 
 
 [build-dependencies]
-bindgen = { version = "0.65", default-features = false }
+bindgen = { version = "0.65"}
